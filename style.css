@@ -1,0 +1,85 @@
+
+#container{
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+#signInBtn{
+  background: #FF0000;
+  color: #FFF;
+  font-size: 15px;
+  height: 30px;
+  width: 80px;
+  border: 1px solid #FF0000;
+  border-radius: 3px;
+}
+#tryBtn{
+  background: #FF0000;
+  color: #FFF;
+  font-size: 23px;
+  height: 50px;
+  width: 200px;
+  border: 1px solid #FF0000;
+  border-radius: 3px;
+}
+#tryBtn:hover{
+  opacity: 0.9; 
+}
+
+#middleBar{	
+	width: 34%;
+	height: 400px;
+	margin-left: 33%;
+	
+}
+
+#middleBar p{
+	color: #FFF;
+	margin-bottom: 2px;
+	
+}
+#line2{
+	margin-left: 37px;
+}
+#line3{
+	margin-left: 35px;
+	margin-top: 15px;
+	margin-bottom: 50px;
+}
+.bigFont{
+	font-size: 45px;
+	font-weight: bold;
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial, Arial Nova
+}
+.smallFont{
+	font-size: 25px;
+	font-weight: normal;
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial, Arial Nova
+}
+
+#try-div{
+	margin-top: 50px;
+	margin-left: 110px;
+}
+#top-menu{
+	width: 100%;
+	height: 200px;
+	float: left;
+	
+}
+#top-right-btn{
+	width: 50%;
+	float: right;
+}
+#logo{
+	width: 50%;
+	float: left;
+}
+#top-right-btn input{
+	margin-left: 80%;
+	margin-top: 20px;
+}
